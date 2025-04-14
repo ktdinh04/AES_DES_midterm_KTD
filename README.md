@@ -8,7 +8,26 @@ Dự án này triển khai các thuật toán mã hóa và giải mã AES và DE
 
 ```
 AES_DES_midterm_KTD
-python-encryption-project ├── src │ ├── aes │ │ ├── init.py │ │ ├── aes_encrypt.py │ │ ├── aes_decrypt.py │ │ └── aes_utils.py │ ├── des │ │ ├── init.py │ │ ├── des_encrypt.py │ │ ├── des_decrypt.py │ │ └── des_utils.py │ └── utils │ ├── init.py │ └── file_handler.py ├── data │ ├── input.txt │ ├── output_aes.txt │ └── output_des.txt ├── main.py └── README.md
+├── src
+│   ├── aes
+│   │   ├── __init__.py
+│   │   ├── aes_encrypt.py
+│   │   ├── aes_decrypt.py
+│   │   └── aes_utils.py
+│   ├── des
+│   │   ├── __init__.py
+│   │   ├── des_encrypt.py
+│   │   ├── des_decrypt.py
+│   │   └── des_utils.py
+│   └── utils
+│       ├── __init__.py
+│       └── file_handler.py
+├── data
+│   ├── input.txt
+│   ├── output_aes.txt
+│   └── output_des.txt
+├── main.py
+└── README.md
 ```
 
 
